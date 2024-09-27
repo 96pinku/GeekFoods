@@ -1,0 +1,14 @@
+.section3{
+    width: 100%;
+    display: flex;
+    padding: 4rem 0rem;
+    justify-content: center;
+}
+.cards{
+    width: 85%;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+    align-items: start;
+    flex-wrap: wrap;
+}
